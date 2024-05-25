@@ -3,4 +3,6 @@ The project is created as part of the "Declarative Programming" subject. The the
 Project created by:
 - Filip Maksymiuk 
 - Jakub Żakowski
+
+
 The instructor of the subject is Mr. Artur Samojluk, MSc.
