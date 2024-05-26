@@ -1,12 +1,11 @@
-nazwa,material,okres,styl,temat,rozmiar,kolor,artysta,cena
-1,1,1,1,1,2.5,1,1,1000000
-2,2,2,1,2,1.8,2,2,500000
-3,1,1,1,3,1.2,1,2,300000
-4,1,3,2,4,2.5,1,3,400000
-5,1,1,3,5,1.7,1,1,2500000
-6,2,4,1,6,1.1,2,4,120000
-7,1,4,1,7,0.6,1,5,80000
-8,2,1,4,8,2.2,3,6,700000
-9,1,1,2,3,1.4,1,7,600000
-10,2,2,1,2,1.7,2,2,400000
-11,2,5,1,9,0.8,3,8,30000
+Nazwa rzezby,Material,Wymiar X (cm),Wymiar Y (cm),Wymiar Z (cm),Technika rzezbienia,Temat,Styl,Kolor
+Dawid,Marmur,517,180,246,Rzezba pelnoplastyczna,Biblijny bohater Dawid,Renesans,Bialy
+Mysliciel,Braz,183,108,120,Rzezba pelnoplastyczna,Meska postac w kontemplacji,Naturalizm,Brazowy
+Pocalunek,Marmur,125,78,58,Rzezba abstrakcyjna,Para kochankow,Modernizm,Bialy
+Nika z Samotraki,Marmur,246,186,93,Rzezba pelnoplastyczna,Bogini zwyciestwa Nike,Hellenizm,Bialy
+Brama Piekiel,Braz,600,300,200,Rzezba architektoniczna,Scena z Boskiej komedii Dantego,Symbolizm,Brazowy
+Erosa i Psyche,Marmur,180,150,120,Rzezba pelnoplastyczna,Milosc Erosa i Psyche,Rokoko,Bialy
+Myslacy,Marmur,175,110,72,Rzezba pelnoplastyczna,Meska postac w kontemplacji,Auguste Rodin,Naturalizm
+Pieta,Marmur,173,195,116,Rzezba pelnoplastyczna,Matka Boska z martwym Chrystusem,Renesans,Bialy
+Pieta z Rondanini,Marmur,195,66,112,Rzezba pelnoplastyczna,Matka Boska z martwym Chrystusem,Renesans,Bialy
+Pomnik Adama Mickiewicza w Krakowie,Braz,420,150,100,Pomnik,Adam Mickiewicz,Realizm,Brazowy
