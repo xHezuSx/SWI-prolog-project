@@ -1,12 +1,12 @@
-nazwa,material,okres,styl,temat,wysokosc,szerokosc,glebokosc,kolor,artysta,cena
-Dawid,marmur,renesans,figuratywny,mitologiczny,2.5,1.7,0.8,biały,Michelangelo,1000000
-Myśliciel,brąz,modernistyczny,figuratywny,filozoficzny,1.8,2.0,1.3,ciemnobrązowy,Auguste Rodin,500000
-Pocałunek,marmur,renesans,figuratywny,miłosny,1.2,1.0,0.6,biały,Auguste Rodin,300000
-Nike z Samotraki,marmur,helenistyczny,mitologiczny,zwycięstwo,2.5,1.8,3.1,biały,Aleksander z Lindos,400000
-Pieta,marmur,renesans,religijny,biblijny,1.7,1.4,0.6,biały,Michelangelo,2500000
-Dama z wachlarzem,brąz,barokowy,figuratywny,portret,1.1,0.8,0.5,ciemnobrązowy,Antonio Canova,120000
-Głowa Meduzy,marmur,barokowy,mitologiczny,strach,0.6,0.4,0.3,biały,Gian Lorenzo Bernini,80000
-Dawid z Goliatem,brąz,renesans,biblijny,religijny,2.2,1.5,1.0,brązowy,Donatello,700000
-Narcyz,marmur,renesans,mitologiczny,miłość,1.4,0.8,0.6,biały,Alessandro Botticelli,600000
-Myślący,brąz,modernistyczny,figuratywny,filozoficzny,1.7,1.2,0.9,ciemnobrązowy,Auguste Rodin,400000
-Kalinka,brąz,XX wiek,figuratywny,zwierzęcy,0.8,0.5,0.4,brązowy,Ignazy Witkowicz,30000
+nazwa,material,okres,styl,temat,rozmiar,kolor,artysta,cena
+1,1,1,1,1,2.5,1,1,1000000
+2,2,2,1,2,1.8,2,2,500000
+3,1,1,1,3,1.2,1,2,300000
+4,1,3,2,4,2.5,1,3,400000
+5,1,1,3,5,1.7,1,1,2500000
+6,2,4,1,6,1.1,2,4,120000
+7,1,4,1,7,0.6,1,5,80000
+8,2,1,4,8,2.2,3,6,700000
+9,1,1,2,3,1.4,1,7,600000
+10,2,2,1,2,1.7,2,2,400000
+11,2,5,1,9,0.8,3,8,30000
