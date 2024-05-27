@@ -1,6 +1,6 @@
-![image](https://github.com/xHezuSx/SWI-prolog-project/assets/92264288/91567dc2-cd32-43ed-80ff-c458b19ec658)
-
 # Projekt "Rzeźbiarstwo"
+
+![image](https://github.com/xHezuSx/SWI-prolog-project/assets/92264288/91567dc2-cd32-43ed-80ff-c458b19ec658)
 
 Autorzy: 
 * Filip Maksymiuk   (alb. 169458)
